@@ -49,8 +49,9 @@ body {
 }
 
 .profile > h1 {
-  font-size: var(calc(var(--font-size) * 1.15));
+  font-size: 26px;
   margin-bottom: 0;
+  font-weight: var(--w2);
 }
 
 .profile > h3 {
